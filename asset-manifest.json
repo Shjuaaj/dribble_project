@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dribble_project/static/css/main.a0ecc52d.css",
+    "main.js": "/dribble_project/static/js/main.c9da59f1.js",
+    "static/js/453.952a6b9b.chunk.js": "/dribble_project/static/js/453.952a6b9b.chunk.js",
+    "static/media/icon3.png": "/dribble_project/static/media/icon3.43ad76f03ed7d0506bed.png",
+    "static/media/sideimage.jpg": "/dribble_project/static/media/sideimage.87d03b3447a818d6da0c.jpg",
+    "static/media/icon1.png": "/dribble_project/static/media/icon1.e332cfc8da04e4c43429.png",
+    "static/media/icon2.png": "/dribble_project/static/media/icon2.b303e7fe220c0760fb4d.png",
+    "static/media/icon.png": "/dribble_project/static/media/icon.f20779e992f8d5bf6c44.png",
+    "index.html": "/dribble_project/index.html",
+    "main.a0ecc52d.css.map": "/dribble_project/static/css/main.a0ecc52d.css.map",
+    "main.c9da59f1.js.map": "/dribble_project/static/js/main.c9da59f1.js.map",
+    "453.952a6b9b.chunk.js.map": "/dribble_project/static/js/453.952a6b9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0ecc52d.css",
+    "static/js/main.c9da59f1.js"
+  ]
+}
